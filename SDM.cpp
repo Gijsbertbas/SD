@@ -13,7 +13,7 @@
 
  This library provides four key benefits:
 
-   * Including `SD.h` automatically creates a global
+   * Including `SDM.h` automatically creates a global
      `SD` object which can be interacted with in a similar
      manner to other standard global objects like `Serial` and `Ethernet`.
 
@@ -50,7 +50,7 @@
 
  */
 
-#include "SD.h"
+#include "SDM.h"
 
 // Used by `getNextPathComponent`
 #define MAX_COMPONENT_LEN 12 // What is max length?

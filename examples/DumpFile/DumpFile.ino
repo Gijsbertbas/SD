@@ -20,7 +20,7 @@
  */
 
 #include <SPI.h>
-#include <SD.h>
+#include <SDM.h>
 
 // change this to match your SD shield or module;
 //     Arduino Ethernet shield: pin 4

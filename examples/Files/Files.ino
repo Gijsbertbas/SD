@@ -19,7 +19,7 @@
  	 
  */
 #include <SPI.h>
-#include <SD.h>
+#include <SDM.h>
 
 File myFile;
 
